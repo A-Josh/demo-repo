@@ -3,7 +3,7 @@ Pipeline {
     stages{
         stage("git-checkout"){
             steps{
-                sh 'echo Joshua is doing a good job'
+                echo "Joshua is doing a good job"
             }
         }
     }
