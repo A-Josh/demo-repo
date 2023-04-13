@@ -6,12 +6,7 @@ pipeline {
                 echo "Joshua is doing a good job"
            
 		echo "testing testing"
-
-
-
-
-
-
+		Nice Job
 
 	   }
         }
